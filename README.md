@@ -29,7 +29,3 @@ Uno, Peggle, or Bahamood.
 ## Repository Link
 
  https://raw.githubusercontent.com/NDokahara/FinalFantasyXIV/main/repo.json
-
-```
-dotnet build -c Release
-```
