@@ -24,7 +24,6 @@ Uno, Peggle, or Bahamood.
 
 `/njack` — open the main window
 `/njack config` — open settings
-`/njack on` / `/njack off` — toggle roll capture
 
 ## Repository Link
 
