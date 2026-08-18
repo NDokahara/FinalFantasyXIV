@@ -26,9 +26,9 @@ Uno, Peggle, or Bahamood.
 `/njack config` — open settings
 `/njack on` / `/njack off` — toggle roll capture
 
-## Building
+## Repository Link
 
-Requires the Dalamud dev environment (`%AppData%\XIVLauncher\addon\Hooks\dev`).
+ https://raw.githubusercontent.com/NDokahara/FinalFantasyXIV/main/repo.json
 
 ```
 dotnet build -c Release
