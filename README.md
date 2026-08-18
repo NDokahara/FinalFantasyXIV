@@ -5,7 +5,7 @@ Dealer-side blackjack tooling for FFXIV venues, as a Dalamud plugin.
 Stripped down from [DeathRoll Helper](https://github.com/Infiziert90/DeathRoll) by Infi
 (via [caitlyn-gg's fork](https://github.com/caitlyn-gg/DeathRoll)). Everything except the
 blackjack engine has been removed — no dice modes, tournaments, Tic-Tac-Toe, Minesweeper,
-Uno, Peggle, or Bahamood.
+Uno, Peggle, or Bahamood; added more blackjack functionality like player banking and payout manager, a full Blackjack suite
 
 ## What's here
 
