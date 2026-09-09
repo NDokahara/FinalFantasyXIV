@@ -18,9 +18,6 @@ In game, once:
 3. Tick the checkbox next to it, then **Save and Close**
 4. `/xlplugins` → find the plugin → Install
 
-That URL is the **raw** one, not the GitHub page — Dalamud needs the file itself, not the
-HTML around it. You only ever add it once; new plugins and updates appear on their own.
-
 ## Plugins
 
 | Plugin | What it does | Source |
